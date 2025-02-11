@@ -18,7 +18,7 @@
     "@typescript-eslint/parser": "^7.0.2",
     "deez-argv": "^1.0.8",
     "dts-buddy": "^0.4.7",
-    "esbuild": "^0.20.2",
+    "esbuild": "^0.25.0",
     "eslint": "^8.56.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-import-resolver-typescript": "^3.6.1",
